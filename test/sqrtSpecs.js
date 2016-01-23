@@ -2,7 +2,7 @@
 const mySqrt = require('../src/sqrt');
 const should = require('should');
 
-describe.only('Sqrt unit test', ()=> {
+describe('Sqrt unit test', ()=> {
   let number;
 
   it('should get 3 if given 13', ()=> {
