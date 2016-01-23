@@ -1,0 +1,8 @@
+/build
+.gradle
+npm-debug.log
+node_modules/
+/dist
+.idea/
+*.iml
+.DS_Store
