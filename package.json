@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lsyiverson/leetcodejs#readme",
   "devDependencies": {
+    "mocha": "^2.3.4",
     "should": "^8.1.1"
   }
 }
